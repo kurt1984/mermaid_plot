@@ -12,6 +12,7 @@ graph LR
     D[[docker mermaid-cli]]
     E(Graph 1 png image)
     F(Graph 2 svg image)
+    G(test)
 
     A -->|passed to| B
     subgraph render-md-mermaid.sh
