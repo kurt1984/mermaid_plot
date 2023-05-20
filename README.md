@@ -1,7 +1,7 @@
 # mermaid_plot
 # mermaid_plot
 
-- ```mermaid
+```mermaid
 flowchart TD
     A[Christmas] -->|Get money| B(Go shopping)
     B --> C{Let me think}
